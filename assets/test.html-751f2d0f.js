@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2791cd83","path":"/test/test.html","title":"Test page markdown with vue Elements","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1680880323000,"contributors":[{"name":"Ca-tt","email":"damir96.lukyanenko@gmail.com","commits":2}]},"filePathRelative":"test/test.md"}');export{t as data};
